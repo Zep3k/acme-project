@@ -24,3 +24,24 @@ The ACME protocol automates the process of obtaining digital certificates from a
 - **`src/`** – Source code for the ACME client.
 - **`docs/`** – Documentation and additional resources (including the presentation slides).
 - **`tests/`** – Automated tests for the project..
+- 
+## Course Information
+
+- **Course:** Network Security AS 2024  
+- **Institution:** ETH Zurich  
+- **Instructors:** Luca Tagliavini, Marc Wyss  
+
+For full project specifications and grading criteria, refer to the slides and documentation in the `docs/` folder.
+
+---
+
+## Additional Resources
+
+- [RFC 8555 – ACME Protocol](https://tools.ietf.org/html/rfc8555)  
+- [Pebble – ACME Test Server](https://github.com/letsencrypt/pebble)  
+
+---
+
+## Acknowledgements
+
+Thanks to the instructors and assistants of **ETH Zurich – Network Security AS** for guidance and support throughout this project.
